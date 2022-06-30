@@ -1,8 +1,8 @@
 # ALU
 Designed ALU and self-checking testbench using VHDL
 
-Operations Table:
-====================================
+
+------------------------------------
 | 000 | A & B (bitwise AND)        |
 | 001 | A | B (bitwise OR)         |
 | 010 | A + B (bitwise addition)   |
@@ -11,4 +11,4 @@ Operations Table:
 | 101 | A | ~B (bitwise OR)        |
 | 110 | A - B (bitwise subtraction)|
 | 111 | Set-on-Less-Than (SLT)     |
-====================================
+------------------------------------
